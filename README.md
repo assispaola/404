@@ -17,6 +17,8 @@
 
   <img alt="License" src="https://img.shields.io/github/license/assispaola/404-not-found?color=56BEB8">
 
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sam-Chatbot)
+
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/404-not-found?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/404-not-found?color=56BEB8" /> -->
@@ -54,7 +56,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
-## :rocket: Technologies ##
+## 💻 Technologies ##
 
 The following tools were used in this project:
 
@@ -64,9 +66,9 @@ The following tools were used in this project:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/) -->
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://www.w3schools.com/css/)
--[Bootstrap](https://getbootstrap.com/)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br />
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br />
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)<br />
 
 <!-- ## :white_check_mark: Requirements ##
 
