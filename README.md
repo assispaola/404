@@ -48,11 +48,9 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge. The challenge was to build one page of error 404.
 
-## :sparkles: Features
+## :sparkles: Preview
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+- ![404 Not Found](https://assispaola.github.io/404)
 
 ## 💻 Technologies
 
