@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="./ui/404 Not Found.png" alt="404 Not Found" />
 
-  &#xa0;
+&#xa0;
 
   <!-- <a href="https://404notfound.netlify.app">Demo</a> -->
 </div>
@@ -17,8 +17,6 @@
 
   <img alt="License" src="https://img.shields.io/github/license/assispaola/404-not-found?color=56BEB8">
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sam-Chatbot)
-
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/404-not-found?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/404-not-found?color=56BEB8" /> -->
@@ -28,9 +26,9 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  404 Not Found 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
@@ -46,17 +44,17 @@
 
 <br>
 
-## :dart: About ##
+## :dart: About
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge. The challenge was to build one page of error 404.
 
-## :sparkles: Features ##
+## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
-## 💻 Technologies ##
+## 💻 Technologies
 
 The following tools were used in this project:
 
@@ -92,10 +90,9 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ``` -->
 
-## :memo: License ##
+## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/assispaola" target="_blank">Paola Assis</a>
 
