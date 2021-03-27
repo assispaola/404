@@ -50,7 +50,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## :sparkles: Preview
 
-- ![404 Not Found](https://assispaola.github.io/404)
+** 🖥️[404 Not Found](https://assispaola.github.io/404)
 
 ## 💻 Technologies
 
