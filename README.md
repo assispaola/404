@@ -48,9 +48,9 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge. The challenge was to build one page of error 404.
 
-## :sparkles: Preview
+## :sparkles: Site Preview 
 
-** 🖥️[404 Not Found](https://assispaola.github.io/404)
+🖥️ [404 Not Found](https://assispaola.github.io/404)
 
 ## 💻 Technologies
 
