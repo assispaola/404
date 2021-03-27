@@ -1,0 +1,105 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    display: block;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+    margin: 0;
+    color: #333333;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    min-height: 100vh;
+    max-width: 1270px;
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.header {
+    font-weight: 700;
+    margin: 0;
+    padding: 1.3em 0;
+    font: bold 1.5rem 'Inconsolata';
+    letter-spacing: -0.08em;
+}
+
+.main {
+    padding-top: 2rem;
+    margin: 3.5em 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img img {
+    max-width: 80%;
+    padding-top: 5rem;
+}
+
+.error h1 {
+    font: bold 4rem 'Space Mono';
+    color: #333333;
+    line-height: 5.938rem;
+    letter-spacing: -0.035em;
+}
+
+.text p {
+    font: normal 1.5rem 'Space Mono';
+    color: #333333;
+    line-height: 2.25rem;
+    letter-spacing: -0.035em;
+
+    width: 23.813rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.botao button {
+    background-color: #333333;
+    border: none;
+    width: 200px;
+    height: 55px;
+    font: bold 14px 'Space Mono';
+    color: white;
+    transition: 0.3s;
+
+    padding: 0;
+}
+
+button:hover {
+    background-color: #FF64AF;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 3rem;
+
+    font: normal 14px 'Montserrat';
+    font-weight: 500;
+    color: #BDBDBD;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #BDBDBD;
+    transition: 0.3s;
+}
+
+footer a:hover {
+    color: #333333;
+}
+
+/*------------- MOBILE -------------*/
+
+@media(max-width: 650px) {}
